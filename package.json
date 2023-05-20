@@ -15,5 +15,15 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cruzkenneth504/mongodb-back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Cruzkenneth504/mongodb-back-end/issues"
+  },
+  "homepage": "https://github.com/Cruzkenneth504/mongodb-back-end#readme"
 }
