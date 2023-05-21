@@ -6,7 +6,8 @@
     "nodemon": "^2.0.22"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "seed": "node utils/seed.js"
   },
   "name": "mongodb-back-end",
   "description": "## Your Task",
