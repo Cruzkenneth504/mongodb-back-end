@@ -1,27 +1,25 @@
 {
-  "name": "mongodb-back-end",
-  "version": "1.0.0",
-  "description": "an application about a social network",
-  "main": "index.js",
-  "license": "MIT",
-  "scripts": {
-    "start": "node index",
-    "dev": "nodemon index",
-    "seed": "node utils/seed"
-  },
   "dependencies": {
-    "express": "^4.17.1",
-    "mongoose": "^6.0.13"
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^7.2.0",
+    "nodemon": "^2.0.22"
   },
-  "devDependencies": {
-    "nodemon": "^2.0.9"
+  "scripts": {
+    "start": "node server.js"
   },
+  "name": "mongodb-back-end",
+  "description": "## Your Task",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Cruzkenneth504/mongodb-back-end.git"
   },
   "keywords": [],
   "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Cruzkenneth504/mongodb-back-end/issues"
   },
