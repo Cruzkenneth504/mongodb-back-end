@@ -60,19 +60,17 @@ npm i
 
 <br/>
 
-![Image]()
+![Image](./Assets/byId.gif)
 
 <br/>
 
-![Image]()
+![Image](./Assets/postDelete.gif)
 
 <br/>
 
-![Image]()
+![Image](./Assets/remove.gif)
 
 <br/>
-
-![Image]()
 
 
 
